@@ -1,58 +1,59 @@
-🌟 About Me
-👨‍💻 Developer with Passion & Precision
+🌌 About Me
 
-I’m a developer who loves building clean, scalable, and reliable systems.
-Every project I touch must be structured, efficient, and beautifully engineered.
+A developer with discipline, vision, and a touch of chaos (the good kind).
 
-I focus on creating products that work flawlessly, look clean, and feel smooth.
+🧠 I Build. I Break. I Improve.
 
-🚀 What I Do
+I’m a developer who enjoys creating systems that are smooth, stable, and smart.
+I love when code is clean, architecture is beautiful, and performance is sharp.
 
-🧩 Backend Development
-— Microservices · Fast APIs · High-load systems · Clean Architecture
+I’m the type of person who will rewrite a function three times
+— not because it’s broken,
+but because it can be better.
 
-📱 Mobile Development
-— React Native · Expo · Smooth UX · Offline mode
+🛠 What I Do (and Do Well)
+🧩 Backend Magic
 
-🔍 Quality Engineering
-— Test automation · API testing · Performance testing · Stability
+Microservices
 
-🧠 Cybersecurity Essentials
-— Secure coding · OWASP awareness · Threat modeling · API security
+High-load architectures
 
-📊 Data & Integrations
-— GPS · GIS · ATTO · Maps · Analytics · Real-time monitoring
+API design that feels luxurious
 
-🛠 System Design & Architecture
-— Database modeling · Solid patterns · Scalable structures
+📱 Mobile Crafting
 
-🔎 Code Quality
-— SonarQube · Code smells · Vulnerability scanning · Maintainability
+React Native
 
-🧱 My Core Principles
+Smooth UX that feels alive
 
-✨ Clean Code — readable, structured, maintainable
-🏗 Solid Architecture — future-proof & scalable
-🔁 Automation — faster iteration + less human error
-🛡 Security First — safe APIs, validated inputs, protected data
-⚙️ Consistency — from commit to deployment
-🧠 Deep Understanding — not just "how", but why
+Offline-first thinking
 
-🤼‍♂️ Wrestler Mindset
+🛡 Cybersecurity Mindset
 
-a wrestler.
+Secure coding
 
-Wrestling trained my mentality:
+API hardening
 
-🔥 Discipline
+OWASP habits without even thinking about it
 
-🧠 Strategy
+Protecting what matters
 
-🛡 Mental strength
+🔍 Code Quality & SonarQube
 
-🎯 Precision
+Zero tolerance for code smells
 
-💪 Consistency
+Clean code fanatic
 
-I bring the same mindset to development:
-calm, tactical, focused, and goal-driven.
+Maintainability addiction
+
+“If SonarQube is green → I’m happy.”
+
+🔗 System Integration
+
+GPS, GIS, ATTO
+
+Real-time monitoring
+
+Data pipelines
+
+Complex → Simple → Beautiful
