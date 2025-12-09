@@ -1,23 +1,58 @@
-🧑‍💻 About Me
+🌟 About Me
+👨‍💻 Developer with Passion & Precision
 
-I’m a passionate software engineer with a deep interest in building reliable, scalable, and well-structured systems. I enjoy turning complex ideas into clean architectures and transforming real-world problems into practical digital solutions. My work spans across backend development, mobile apps, data integrations, and software testing — giving me a strong understanding of how systems behave from end to end.
+I’m a developer who loves building clean, scalable, and reliable systems.
+Every project I touch must be structured, efficient, and beautifully engineered.
 
-I love experimenting with different technologies, improving performance, and designing APIs that feel elegant and intuitive. Whether it’s working with microservices, high-load systems, geospatial data, mobile interfaces, or automation tools, I’m always excited to dive deeper and learn something new.
+I focus on creating products that work flawlessly, look clean, and feel smooth.
 
-As a programmer, I focus on:
+🚀 What I Do
 
-🧠 Writing clean, maintainable, scalable code
+🧩 Backend Development
+— Microservices · Fast APIs · High-load systems · Clean Architecture
 
-🏗 Designing solid architectures and database schemas
+📱 Mobile Development
+— React Native · Expo · Smooth UX · Offline mode
 
-🔍 Ensuring quality through testing and automation
+🔍 Quality Engineering
+— Test automation · API testing · Performance testing · Stability
 
-⚙️ Building fast, reliable backend services
+🧠 Cybersecurity Essentials
+— Secure coding · OWASP awareness · Threat modeling · API security
 
-📱 Creating smooth and intuitive mobile experiences
+📊 Data & Integrations
+— GPS · GIS · ATTO · Maps · Analytics · Real-time monitoring
 
-📊 Integrating data from multiple systems and making it usable
+🛠 System Design & Architecture
+— Database modeling · Solid patterns · Scalable structures
 
-Outside of coding, I am also a wrestler, which taught me discipline, focus, and the ability to push through challenges — traits I bring into my engineering work every day. Wrestling shaped my mindset: stay consistent, think strategically, and win with technique, not force. And I apply the same logic when solving technical problems.
+🔎 Code Quality
+— SonarQube · Code smells · Vulnerability scanning · Maintainability
 
-I enjoy working on meaningful projects, experimenting with new tools, and constantly leveling up my skills. My goal is to build software that is not only functional, but also clean, efficient, and enjoyable to use.
+🧱 My Core Principles
+
+✨ Clean Code — readable, structured, maintainable
+🏗 Solid Architecture — future-proof & scalable
+🔁 Automation — faster iteration + less human error
+🛡 Security First — safe APIs, validated inputs, protected data
+⚙️ Consistency — from commit to deployment
+🧠 Deep Understanding — not just "how", but why
+
+🤼‍♂️ Wrestler Mindset
+
+a wrestler.
+
+Wrestling trained my mentality:
+
+🔥 Discipline
+
+🧠 Strategy
+
+🛡 Mental strength
+
+🎯 Precision
+
+💪 Consistency
+
+I bring the same mindset to development:
+calm, tactical, focused, and goal-driven.
