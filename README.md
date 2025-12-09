@@ -1,56 +1,23 @@
-🚀 About Me
+🧑‍💻 About Me
 
-🔭 Currently working on multiple backend, frontend, and mobile projects
+I’m a passionate software engineer with a deep interest in building reliable, scalable, and well-structured systems. I enjoy turning complex ideas into clean architectures and transforming real-world problems into practical digital solutions. My work spans across backend development, mobile apps, data integrations, and software testing — giving me a strong understanding of how systems behave from end to end.
 
-🌱 Learning advanced system design, DevOps, and high-load architecture
+I love experimenting with different technologies, improving performance, and designing APIs that feel elegant and intuitive. Whether it’s working with microservices, high-load systems, geospatial data, mobile interfaces, or automation tools, I’m always excited to dive deeper and learn something new.
 
-🧪 Passionate about software testing, automation, and clean engineering
+As a programmer, I focus on:
 
-⚡ Love building scalable apps from scratch
+🧠 Writing clean, maintainable, scalable code
 
-🛠 Tech Stack
-Languages
+🏗 Designing solid architectures and database schemas
 
-JavaScript · TypeScript · Python · Go · SQL
+🔍 Ensuring quality through testing and automation
 
-Backend
+⚙️ Building fast, reliable backend services
 
-Node.js · Express · FastAPI · PostgreSQL · Redis · RabbitMQ · Docker
+📱 Creating smooth and intuitive mobile experiences
 
-Frontend & Mobile
+📊 Integrating data from multiple systems and making it usable
 
-React · Next.js · TailwindCSS · React Native · Expo
+Outside of coding, I am also a wrestler, which taught me discipline, focus, and the ability to push through challenges — traits I bring into my engineering work every day. Wrestling shaped my mindset: stay consistent, think strategically, and win with technique, not force. And I apply the same logic when solving technical problems.
 
-Testing
-
-Playwright · Selenium · Postman · JMeter · k6
-
-DevOps
-
-Docker · GitHub Actions · Linux · Nginx
-
-🌟 Featured Projects
-
-Learning platform — microservices, authentication, admin panel
-
-Mobile app — location-based features, offline mode
-
-Data integration system — syncing data across multiple services
-
-Monitoring dashboard — real-time analytics and logs
-
-📫 Contact
-
-Telegram: @sultonbekovvvvv
-
-Email: 7isabek@gmail.com
-
-⚡ Fun Facts
-
-☕ Code + coffee lover
-
-🤼 wrestler
-
-🚀 Always experimenting with new tools
-
-🎯 Focused on writing clean, scalable systems
+I enjoy working on meaningful projects, experimenting with new tools, and constantly leveling up my skills. My goal is to build software that is not only functional, but also clean, efficient, and enjoyable to use.
