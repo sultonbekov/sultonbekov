@@ -1,59 +1,69 @@
-🌌 About Me
+                 .::::.              
+             .::::::::::::.          
+          .::::::::::::::::::.        
+        .:::::::'  '''::::::::.      
+       ::::::'          '::::::::     
+      :::::'   ...::...    '::::::    
+     :::::'  .:::::::::::.   ::::::   
+    :::::'   ::::::::::::::   ::::::  
+    :::::    ::::::::::::::    :::::  
+    :::::    ::::::::::::::    :::::  
+    ::::::.  ::::::::::::::  .::::::  
+    '::::::.  ::::::::::::  .::::::'  
+      '::::::.  ':::::::'  .::::::'   
+        '::::::.         .::::::'     
+           '::::::::. .::::::::'      
+              '::::::::::::::::'       
+                 '::::::::::'          
+                    '::::'             
+Uptime: 20+ projects
+Role: Backend Developer / Mobile Developer
+Mindset: Wrestler discipline × Developer precision
+Focus: Clean code · Cybersecurity · High-load systems · Mobile · Architecture
+OS: Linux
+Shell: Zsh
+Editor: VSCode / Neovim
+Hobby: Wrestling, gaming, music
+Strengths: Fast debugging, clean architecture, secure coding, API design
+Special: Cybersecurity basics · SonarQube · Code quality obsession
 
-A developer with discipline, vision, and a touch of chaos (the good kind).
+⚙️ Tech Stack
+Languages       : JavaScript, TypeScript, Python, Go, SQL
+Backend         : Node.js, FastAPI, Express, PostgreSQL
+DevOps          : Docker, GitHub Actions, Nginx, Linux
+Security        : Secure coding, API Security, OWASP habits
+Code Quality    : SonarQube, ESLint, Prettier
+Mobile          : React Native, Expo
+Architecture    : Microservices, Scalable Systems, API Design
+Other           : Redis, RabbitMQ, GIS/GPS Integrations
 
-🧠 I Build. I Break. I Improve.
+🔐 Cybersecurity
+- Secure API design
+- Input validation everywhere
+- JWT & token handling best practices
+- Preventing common OWASP risks
+- Code scanning with SonarQube
+- Never trust user input 😂
 
-I’m a developer who enjoys creating systems that are smooth, stable, and smart.
-I love when code is clean, architecture is beautiful, and performance is sharp.
+🤼 Wrestler Mode Activated
+Discipline     ✔
+Strategy       ✔
+Focus          ✔
+Pressure mode  ✔
+Give up?       ❌ never
 
-I’m the type of person who will rewrite a function three times
-— not because it’s broken,
-but because it can be better.
 
-🛠 What I Do (and Do Well)
-🧩 Backend Magic
+The same mindset applies to development:
+structured, tactical, calm, and unstoppable.
 
-Microservices
+📡 Contacts
+Telegram : t.me/your_username
+Email    : your@email.com
+Location : Earth
 
-High-load architectures
-
-API design that feels luxurious
-
-📱 Mobile Crafting
-
-React Native
-
-Smooth UX that feels alive
-
-Offline-first thinking
-
-🛡 Cybersecurity Mindset
-
-Secure coding
-
-API hardening
-
-OWASP habits without even thinking about it
-
-Protecting what matters
-
-🔍 Code Quality & SonarQube
-
-Zero tolerance for code smells
-
-Clean code fanatic
-
-Maintainability addiction
-
-“If SonarQube is green → I’m happy.”
-
-🔗 System Integration
-
-GPS, GIS, ATTO
-
-Real-time monitoring
-
-Data pipelines
-
-Complex → Simple → Beautiful
+🧨 Small Facts
+☕ Coffee fuels the code
+🎧 Music improves debugging accuracy
+🤼 Wrestler → discipline in everything
+🔐 Cybersecurity fanboy
+🔥 Code must be clean, or it's not done
