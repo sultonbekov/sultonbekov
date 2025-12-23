@@ -57,8 +57,8 @@ The same mindset applies to development:
 structured, tactical, calm, and unstoppable.
 
 📡 Contacts
-Telegram : t.me/your_username
-Email    : your@email.com
+
+Email    : sultonbekov.isabek@gmail.com
 Location : Earth
 
 🧨 Small Facts
