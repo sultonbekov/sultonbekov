@@ -1,18 +1,19 @@
 <div align="center">
 
 <pre>
-IIIIIIII  SSSSSSS  AAAAAAA  BBBBBBB  EEEEEEE  K    K
-   II     SS       AA   AA  BB   BB  EE       K   K
-   II     SSSSSSS  AAAAAAA  BBBBBBB  EEEEE    KKKK
-   II          SS  AA   AA  BB   BB  EE       K   K
-IIIIIIII  SSSSSSS  AA   AA  BBBBBBB  EEEEEEE  K    K
+IIIIIIII  SSSSSSS  AAAAAAA  BBBBBBB  EEEEEEE  K     K
+   II     SS       AA   AA  BB   BB  EE       K    K
+   II     SSSSSSS  AAAAAAA  BBBBBBB  EEEEE    KKKKK
+   II          SS  AA   AA  BB   BB  EE       K    K
+IIIIIIII  SSSSSSS  AA   AA  BBBBBBB  EEEEEEE  K     K
 </pre>
 
 ### ISABEK — Backend Developer
 
-Backend developer focused on **clean architecture, secure code, and high-load backend systems**.
+Backend developer focused on clean architecture, secure code, and high-load backend systems.
 
 </div>
+
 
 ---
 
